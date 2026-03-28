@@ -28,7 +28,7 @@ Note: สามารถดูรายละเอียด Test Case ทั้
   
 --> How to Run the Test
   1. Clone project: 
-    git clone [<link-your-repo>](https://github.com/pawassun/Automated-tests-for-Empeo-Registration)
+    git clone [https://github.com/pawassun/Automated-tests-for-Empeo-Registration]
   2. Install dependencies:
     npm install
   3. Run all tests:
